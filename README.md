@@ -4,4 +4,4 @@
 
 > npm start
 
-(projectlink)[https://net-ninja-phuchau.firebaseapp.com/]
+(projectlink)[https://net-ninja-phuchau.herokuapp.com/]
