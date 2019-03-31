@@ -11,6 +11,7 @@ var onDelete = (id, props) => {
   alert("are you sure to delete this!");
   props.editProject(id);
   props.history.push("/");
+  window.location.reload();
 };
 
 function ProjectDetails(props) {
