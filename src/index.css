@@ -36,3 +36,8 @@ textarea.materialize-textarea:focus:not([readonly]) {
   border-color: #ec407a;
   box-shadow: none;
 }
+
+.examlple-account {
+  font-weight: lighter;
+  font-style: italic;
+}

@@ -35,6 +35,8 @@ export class SignIn extends Component {
             <input type="password" id="password" onChange={this.handleChange} />
           </div>
           <div className="input-field">
+            <p className="examlple-account">email: test@gmail.com</p>
+            <p className="examlple-account">pass: 123456</p>
             <button className="btn pink lighten-1 z-depth-0">Login</button>
 
             <div className="red-text center">
