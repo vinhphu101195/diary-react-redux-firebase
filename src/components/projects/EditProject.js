@@ -42,7 +42,7 @@ export class EditProject extends Component {
                 />
               </div>
               <div className="input-field">
-                <label htmlFor="content">Project Content</label>
+                <label htmlFor="content">Content</label>
                 <br />
                 <textarea
                   id="content"

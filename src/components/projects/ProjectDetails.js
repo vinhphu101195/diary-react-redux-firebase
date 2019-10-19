@@ -26,12 +26,12 @@ function ProjectDetails(props) {
             <span className="card-title"> {project.title}</span>
             <p>{project.content}</p>
             <Link to={"/edit/" + id}>
-              <button className="waves-effect skyblue btn-small" href="#">
+              <button className="waves-effect green lighten-1 btn-small" href="#">
                 Edit
               </button>
             </Link>
             <button
-              className="waves-effect red btn-small"
+              className="waves-effect red x btn-small"
               onClick={() => onDelete(id, props)}
             >
               Delete

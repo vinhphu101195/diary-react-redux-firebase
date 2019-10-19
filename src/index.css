@@ -41,3 +41,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
   font-weight: lighter;
   font-style: italic;
 }
+
+.card-title{
+  color:#4CAF50;
+}
