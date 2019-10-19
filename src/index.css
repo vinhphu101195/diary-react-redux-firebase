@@ -9,9 +9,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url(/img/mario-bg.png) no-repeat;
+  background: url(/img/funny.png) no-repeat;
   background-size: 100%;
-  background-position: bottom;
+  background-position: bottom right;
   background-color: #95e8f3;
   min-height: 100%;
 }

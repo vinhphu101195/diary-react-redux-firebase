@@ -52,7 +52,7 @@ export class EditProject extends Component {
                 />
               </div>
               <div className="input-field">
-                <button className="btn pink lighten-1 z-depth-0">Edit</button>
+                <button className="btn green lighten-1 z-depth-0">Edit</button>
               </div>
             </form>
           </div>

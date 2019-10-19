@@ -37,7 +37,7 @@ export class SignIn extends Component {
           <div className="input-field">
             <p className="examlple-account">email: test@gmail.com</p>
             <p className="examlple-account">pass: 123456</p>
-            <button className="btn pink lighten-1 z-depth-0">Login</button>
+            <button className="btn green lighten-1 z-depth-0">Login</button>
 
             <div className="red-text center">
               {authError ? <p>{authError}</p> : null}
