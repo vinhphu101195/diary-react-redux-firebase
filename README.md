@@ -6,4 +6,4 @@
 
 > npm start
 
-(demo link)[https://net-ninja-phuchau.herokuapp.com/]
+(demo link)[https://diary-phuchau.herokuapp.com/]
