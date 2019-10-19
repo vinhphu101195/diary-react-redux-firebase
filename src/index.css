@@ -12,7 +12,7 @@ body {
   background: url(/img/funny.png) no-repeat;
   background-size: 100%;
   background-position: bottom right;
-  background-color: #95e8f3;
+  background-color: grey;
   min-height: 100%;
 }
 form {
@@ -44,4 +44,9 @@ textarea.materialize-textarea:focus:not([readonly]) {
 
 .card-title{
   color:#4CAF50;
+}
+
+.notification{
+  position: fixed;
+  width: 32%;
 }
